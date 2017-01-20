@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Buttons and Similar Clickable Widgets</string>
+    <!-- MainScreen -->
+    <string name="red">Red</string>
+    <string name="yellow">Yellow</string>
+    <string name="blue">Blue</string>
+</resources>
